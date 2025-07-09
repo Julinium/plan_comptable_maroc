@@ -5,21 +5,10 @@ Latest version of Morocco Chart of Accounts (Plan Comptable).
 The pcm.json file is a list of a nested JSON objects with *code*, *name*, *translations* and eventual *children* keys, like:
 | name   | code | translations | children |
 |--------|-----|---------|---------|
-| COMPTES DE FINANCEMENT PERMANENT  | 1  |             "fr": "Comptes de financement permanent", "en": "Permanent Financing Accounts", "ar": "حسابات التمويل الدائم"| {...} |
-| Bob    | 30  | UK      |---------|
+| COMPTES DE FINANCEMENT PERMANENT  | 1  |             "fr": "Comptes de financement permanent", "en": "Permanent Financing Accounts", "ar": "حسابات التمويل الدائم"| {*Nested Children Accounts* with same format} |
+| ... | ... | ... | ... |
 
-"code": "1",
-        "name": "COMPTES DE FINANCEMENT PERMANENT",
-        "translations": {
-            "fr": "Comptes de financement permanent",
-            "en": "Permanent Financing Accounts",
-            "ar": "حسابات التمويل الدائم"
-        },
-        "children": [
-
-
-
-For reference, top level accounts (with one single digit code may be known as **Classes**.)
+For reference, top level accounts (with one single digit code may be called **Classes**.)
 ## Translations
 Main names are in French. Translations are provided in three languages: French, English and Arabic. 
 Arabic and English were translated using AI and may contain errors or inaccuracies.
