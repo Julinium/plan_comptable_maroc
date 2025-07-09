@@ -1,8 +1,8 @@
 # Plan Comptable Maroc
 Tree-structured **Moroccan Chart of Accounts** (Plan Comptable Maroc, pcm). 
+I made this repo because I needed the pcm.json file for my own development purposes and I am making it public in hope it may be useful to someone.
 - The file *pcm.txt* is a raw text where relationships between accounts is represented by simple indentations.
 - The *pcm.json* is a list of **nested JSON objects** representing the **hierarchial tree of the accounts**.
-I made this repo because I needed the pcm.json file for my own development purposes and I am making it public in hope it may be useful to someone some day.
 ## Formatting
 The keys of pcm.json are *code*, *name*, *translations* and eventually *children*. 
 - The *children* value, if present, is a list of json objects structured exactly the same way as parent.
