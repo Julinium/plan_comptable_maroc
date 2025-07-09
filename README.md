@@ -2,10 +2,10 @@
 
 Latest version of Morocco Chart of Accounts (Plan Comptable).
 ## Format
-Formatted as a nested JSON objects.
+The pcm.json file is a list of a nested JSON objects.
 ## Translations
-Litterals are provided in three languages: French, English and Arabic. 
-The original version was written in French. Arabic and English were translated using AI and may contain errors or inaccuracies.
+Main names are in French. Translations are provided in three languages: French, English and Arabic. 
+Arabic and English were translated using AI and may contain errors or inaccuracies.
 
 ## Copyright and Licence
 © 2025 julinium. Licensed under the **GNU GPL-2** licence. Please see [LICENCE](https://github.com/Julinium/plan_comptable_maroc/blob/main/LICENSE) file for details. 
