@@ -5,16 +5,18 @@ The original version was written in French. Arabic and English were translated u
 
 # Licence
 Licenced under GNU GPL-2. See LICENCE file for more details.
-## Conditions
-- License and copyright notice
-- State changes
-- Disclose source
-- Same license
-## Permissions
-- Commercial use
-- Modification
-- Distribution
-- Private use
-## Limitations
-- No Liability
-- No Warranty
+### Conditions
+- You must include the original license and copyright.
+- You must clearly state any changes you make.
+- You must provide the source code when distributing the software.
+- You must release derivative works under the same GPL-2 license.
+
+### Permissions
+- You can use the software commercially.
+- You can modify the software.
+- You can distribute the software.
+- You can use the software privately.
+
+### Limitations
+- There is no liability for damages.
+- The software is provided without any warranty.
