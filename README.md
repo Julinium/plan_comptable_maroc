@@ -8,20 +8,20 @@ Litterals are provided in three languages: French, English and Arabic.
 The original version was written in French. Arabic and English were translated using AI and may contain errors or inaccuracies.
 
 ## Copyright and Licence
-© 2025 julinium. Licensed under the  GNU GPL-2 LICENCE.
+© 2025 julinium. Licensed under the **GNU GPL-2** licence. Please see [LICENCE](https://github.com/Julinium/plan_comptable_maroc/blob/main/LICENSE) file for details. 
 
-#### Conditions
-- You must include the original license and copyright.
-- You must clearly state any changes you make.
-- You must provide the source code when distributing the software.
-- You must release derivative works under the same GPL-2 license.
+- Conditions
+  - You must include the original license and copyright.
+  - You must clearly state any changes you make.
+  - You must provide the source code when distributing the software.
+  - You must release derivative works under the same GPL-2 license.
 
-#### Permissions
-- You can use the software commercially.
-- You can modify the software.
-- You can distribute the software.
-- You can use the software privately.
+- Permissions
+  - You can use the software commercially.
+  - You can modify the software.
+  - You can distribute the software.
+  - You can use the software privately.
 
-#### Limitations
-- There is no liability for damages.
-- The software is provided without any warranty.
+- Limitations
+  - There is no liability for damages.
+  - The software is provided without any warranty.
