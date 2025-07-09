@@ -31,3 +31,6 @@ Arabic and English were translated using AI and may contain errors or inaccuraci
 - **Limitations**
   - There is no liability for damages.
   - The software is provided without any warranty.
+## Credits:
+Some data was taken from [Adil Hadri's website](https://plancomptable.ma/). Thanks to him.
+- Note to Adil: I could not find any terms on your website and since the data it presents is publicly available elsewhere, I supposed your work is public domain. If that's not the case, please let me know what your policy or license is and I will comply.
