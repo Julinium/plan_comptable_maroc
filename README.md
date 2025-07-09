@@ -6,6 +6,9 @@ The keys of pcm.json are *code*, *name*, *translations* and eventually *children
 - The *children* value, if present, is a list of json objects structured exactly the same way as parent.
 - The *translations* value is a json object with language codes as keys and translated litterals as values. French translation is redundant here because its litterals are the same as the values of the *name* keys. It is kept for standarization.
 - For reference, top level accounts (with one single digit code may be called **Classes**.)
+## Some useful resoning:
+- An account is a leaf if it has no *children* key.
+- An account is a root account (known as a Class) if its *code* is one digit (0-9).
 ## Translations
 Main names are in French. Translations are provided in three languages: French, English and Arabic. 
 Arabic and English were translated using AI and may contain errors or inaccuracies.
