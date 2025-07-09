@@ -10,18 +10,18 @@ The original version was written in French. Arabic and English were translated u
 ## Copyright and Licence
 © 2025 julinium. Licensed under the  GNU GPL-2 LICENCE.
 
-### Conditions
+#### Conditions
 - You must include the original license and copyright.
 - You must clearly state any changes you make.
 - You must provide the source code when distributing the software.
 - You must release derivative works under the same GPL-2 license.
 
-### Permissions
+#### Permissions
 - You can use the software commercially.
 - You can modify the software.
 - You can distribute the software.
 - You can use the software privately.
 
-### Limitations
+#### Limitations
 - There is no liability for damages.
 - The software is provided without any warranty.
