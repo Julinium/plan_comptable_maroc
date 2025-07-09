@@ -1,7 +1,7 @@
 # Plan Comptable Maroc
 
-Latest version of Morocco Chart of Accounts (Plan Comptable).
-## Format
+Latest version of Morocco Chart of Accounts (Plan Comptable). The file *pcm.txt* is a raw text where relationships between accounts is represented by simple indentations. The ***pcm.json*** is a list of nested JSON objects representing the *hierarchial tree of the accounts*. I made this repo because I needed the pcm.json file for my own development purposes and I am making it public in hope it may be useful to someone some day.
+## Formatting
 The [pcm.json](https://github.com/Julinium/plan_comptable_maroc/blob/main/pcm.json) file is a list of nested JSON objects with *code*, *name*, *translations* and eventual *children* keys, like:
 | code | name   | translations | children |
 |--------|-----|---------|---------|
