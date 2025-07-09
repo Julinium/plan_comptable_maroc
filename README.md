@@ -2,7 +2,7 @@
 
 Latest version of Morocco Chart of Accounts (Plan Comptable).
 ## Format
-The pcm.json file is a list of a nested JSON objects with *code*, *name*, *translations* and eventual *children* keys.
+The pcm.json file is a list of a nested JSON objects with *code*, *name*, *translations* and eventual *children* keys. - For reference, top level accounts (with one single digit code may be known as **Classes**.)
 ## Translations
 Main names are in French. Translations are provided in three languages: French, English and Arabic. 
 Arabic and English were translated using AI and may contain errors or inaccuracies.
