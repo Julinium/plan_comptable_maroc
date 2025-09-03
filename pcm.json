@@ -1356,7 +1356,7 @@
             ]
             },
             {
-            "code": "24/25",
+            "code": "24",
             "name": "Immobilisations financières",
             "translations": {
                 "fr": "Immobilisations financières",
@@ -2111,7 +2111,7 @@
                 ]
                 },
                 {
-                "code": "294/295",
+                "code": "294",
                 "name": "Provisions pour dépréciation des immobilisations financières",
                 "translations": {
                     "fr": "Provisions pour dépréciation des immobilisations financières",
@@ -4753,7 +4753,7 @@
                 ]
                 },
                 {
-                "code": "613/614",
+                "code": "613",
                 "name": "Autres charges externes",
                 "translations": {
                     "fr": "Autres charges externes",
@@ -9877,7 +9877,7 @@
                     }
                     },
                     {
-                    "code": "0124/25",
+                    "code": "0124",
                     "name": "Réouverture des comptes des immobilisations financières",
                     "translations": {
                         "fr": "Réouverture des comptes des immobilisations financières",
@@ -10159,7 +10159,7 @@
                     }
                     },
                     {
-                    "code": "0224/25",
+                    "code": "0224",
                     "name": "Clôture des comptes des immobilisations Financières",
                     "translations": {
                         "fr": "Clôture des comptes des immobilisations Financières",
