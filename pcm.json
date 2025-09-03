@@ -1,7 +1,7 @@
 [
     {
         "code": "1",
-        "name": "COMPTES DE FINANCEMENT PERMANENT",
+        "name": "CLASSE 1 : COMPTES DE FINANCEMENT PERMANENT",
         "translations": {
             "fr": "Comptes de financement permanent",
             "en": "Permanent Financing Accounts",
@@ -736,7 +736,7 @@
 
     {
         "code": "2",
-        "name": "COMPTES D'ACTIF IMMOBILISE",
+        "name": "CLASSE 2 : COMPTES D'ACTIF IMMOBILISE",
         "translations": {
             "fr": "Comptes d'actif immobilisé",
             "en": "Fixed Asset Accounts",
@@ -2164,7 +2164,7 @@
 
     {
         "code": "3",
-        "name": "COMPTES D'ACTIF CIRCULANT",
+        "name": "CLASSE 3 : COMPTES D'ACTIF CIRCULANT",
         "translations": {
             "fr": "Comptes d'actif circulant",
             "en": "Current Asset Accounts",
